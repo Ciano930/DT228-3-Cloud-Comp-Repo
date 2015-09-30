@@ -1,0 +1,28 @@
+#Code for Eulers 19
+
+def jan(31)
+def feb(28)
+def mar(31)
+def apr(30)
+def may(31)
+def june(30)
+def july(31)
+def aug(31)
+def sept(30)
+def oct(31)
+def nov(30)
+def dec(31)
+
+def dateY(1900)
+def dateM(12)
+def dateW(7)
+
+def now(2015)
+
+for( dateY != 2015):
+  for( dateM != 0):
+    dateM--
+    for( dateW != 0)
+      
+      
+      dateW--
